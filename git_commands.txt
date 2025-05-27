@@ -21,4 +21,4 @@
    64  git remote -v
    65  git push
    66  git remote show origin
-   Again chabging it and saving it 
+   Again changing it and saving it, Ok thanks
