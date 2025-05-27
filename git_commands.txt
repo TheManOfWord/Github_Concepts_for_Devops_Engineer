@@ -1,0 +1,24 @@
+ git init
+    5  ls -a
+    6   git status
+    7  ls
+    8  git status
+    9  git status
+   10  git add testing.py
+   11  git status
+   12  git rm --cache testing.py
+   13  git status
+   14  git add testing.py
+   15  ls -a
+
+   57  git status
+   58  git add git_commands.txt
+   59  git status
+   60  git commit -m "Its now staged"
+   61  git status
+   62  git remote add origin https://github.com/TheManOfWord/Github_Concepts_for_Devops_Engineer.git
+   63  git push -u origin master
+   64  git remote -v
+   65  git push
+   66  git remote show origin
+   Again chabging it and saving it 
