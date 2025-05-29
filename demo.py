@@ -1,8 +1,5 @@
-def my_function():
-    a = 5 
-    b = 6
-    c = 9
+int a = 4
+int b = 5
 
-    return d 
-
-my_function()
+addition = a + b
+print("ddition:", addition)
